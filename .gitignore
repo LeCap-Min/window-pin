@@ -1,0 +1,25 @@
+# Local test runs can contain machine paths and window titles.
+/tests/results/
+/.local-reviews/
+
+# Only the reviewed application binary is distributed.
+*.exe
+!/窗口置顶.exe
+*.dll
+*.pdb
+*.log
+*.tmp
+*.cache
+
+# Local editor state and credentials.
+/.vs/
+/.vscode/
+/.idea/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+Thumbs.db
+Desktop.ini
