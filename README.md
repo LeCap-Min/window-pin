@@ -4,7 +4,9 @@
 
 ## 运行
 
-下载仓库根目录的 **[窗口置顶.exe](./窗口置顶.exe)**，双击运行。支持 Windows 10/11，依赖 .NET Framework 4.8。
+从 **[最新 Release](https://github.com/LeCap-Min/window-pin/releases/latest)** 下载 **[WindowPin.exe](https://github.com/LeCap-Min/window-pin/releases/latest/download/WindowPin.exe)**，双击运行。支持 Windows 10/11，依赖 .NET Framework 4.8。
+
+Release 同时提供 `SHA256SUMS.txt` 用于校验下载文件。仓库保留源码；自行构建会在本地生成 `窗口置顶.exe`。
 
 1. 在列表中选择目标窗口，也可以按窗口标题或程序名称搜索。
 2. 点击 **置顶所选**；点击 **取消置顶** 或双击条目可切换状态。

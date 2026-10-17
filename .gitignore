@@ -2,9 +2,8 @@
 /tests/results/
 /.local-reviews/
 
-# Only the reviewed application binary is distributed.
+# Application binaries are distributed through GitHub Releases.
 *.exe
-!/窗口置顶.exe
 *.dll
 *.pdb
 *.log
